@@ -1,0 +1,7 @@
+start: 40,55
+end: 368,176
+lemmings: 5
+lemmingsRequired: 5
+theme: default
+quantities: 99,0,0,99,99,99
+Builders will build stairs   until they hit a wall   or are reassigned

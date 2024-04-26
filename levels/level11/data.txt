@@ -1,0 +1,6 @@
+start: 280,20
+end: 370,147
+lemmings: 20
+lemmingsRequired: 19
+theme: lava
+quantities: 5,0,0,5,99,0

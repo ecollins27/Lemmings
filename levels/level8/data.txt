@@ -1,0 +1,6 @@
+start: 200,31
+end: 50,180
+lemmings: 15
+lemmingsRequired: 15
+theme: default
+quantities: 99,1,0,5,10,5

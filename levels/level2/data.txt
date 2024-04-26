@@ -1,0 +1,7 @@
+start: 80,55
+end: 350,171
+lemmings: 10
+lemmingsRequired: 10
+theme: default
+quantities: 0,99,0,0,0,0
+   Diggers dig straight down

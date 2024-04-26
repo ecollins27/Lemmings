@@ -1,0 +1,7 @@
+start: 45,65
+end: 360,176
+lemmings: 10
+lemmingsRequired: 10
+theme: default
+quantities: 0,0,0,99,0,0
+Don't let the lemmings   fall too far!   Use umbrellas to save them

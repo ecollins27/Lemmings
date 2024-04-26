@@ -1,0 +1,7 @@
+start: 70,55
+end: 340,171
+lemmings: 20
+lemmingsRequired: 20
+theme: default
+quantities: 99,0,0,5,99,0
+   Blockers will turn lemmings around

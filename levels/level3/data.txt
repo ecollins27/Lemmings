@@ -1,0 +1,7 @@
+start: 45,160
+end: 350,175
+lemmings: 5
+lemmingsRequired: 5
+theme: default
+quantities: 0,0,99,0,0,0
+   Tunnelers dig horizontally

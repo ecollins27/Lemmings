@@ -1,0 +1,7 @@
+start: 250,31
+end: 350,179
+lemmings: 10
+lemmingsRequired: 10
+theme: default
+quantities: 99,99,99,99,10,0
+Some materials cannot   be mined

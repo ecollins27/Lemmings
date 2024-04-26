@@ -1,0 +1,7 @@
+start: 43,175
+end: 150,47
+lemmings: 15
+lemmingsRequired: 15
+theme: default
+quantities: 99,1,1,1,5,99
+Use level codes to    return to levels later.   This level's code is   9C8958

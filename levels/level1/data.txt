@@ -1,0 +1,7 @@
+start: 80,37
+end: 350,173
+lemmings: 20
+lemmingsRequired: 20
+theme: default
+quantities: 0,0,0,0,0,0
+Lemmings will walk in a   straight line until they hit   a wall or fall off a cliff.
